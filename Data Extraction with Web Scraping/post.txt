@@ -1,0 +1,7 @@
+job_no , company_name , skills
+3 , GEMINISOFTWARESOLUTIONS , python,mobile,svn,nosql,pythonscripting,git,sqldatabase
+4 , GeminiSolutions , python,mobile,svn,nosql,pythonscripting,git,api,sqldatabase
+11 , SATRAInfrastructureManagement , algorithms,python,debugging
+20 , TandAHRSolutions , Djangoframework,PythonDeveloper,corepython
+21 , eastindiasecuritiesltd. , python,hadoop,machinelearning
+22 , YMGlobalTechnologiesPteLtd , python,apache,machinelearning
