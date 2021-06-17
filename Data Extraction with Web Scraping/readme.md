@@ -1,0 +1,1 @@
+This file has extracted some data from a website using web scraping with BS4 & request module of Python. I then created a excel file from the text file using python which can be said to be a part of Data Crunching.
